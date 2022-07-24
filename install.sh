@@ -220,7 +220,7 @@ install_XrayR() {
     systemctl stop firewalld
     echo "XrayR服务已经完成重启，请愉快地享用！"
     echo
-    #curl -o /usr/bin/XrayR-tool -Ls https://raw.githubusercontent.com/missuo/XrayR/master/XrayR-tool
+    #curl -o /usr/bin/XrayR-tool -Ls https://raw.githubusercontent.com/mliae/XrayR/master/XrayR-tool
     #chmod +x /usr/bin/XrayR-tool
     echo -e ""
     echo "XrayR 管理脚本使用方法: "
